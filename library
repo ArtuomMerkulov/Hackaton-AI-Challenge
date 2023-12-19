@@ -1,4 +1,5 @@
 pandas
 numpy
 mathplotlib
-seaborn
+sklearn
+tensorflow
